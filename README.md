@@ -7,9 +7,12 @@
 ### Hi! It's me CH
 👋 Hey, how are you?
 I'm front-end developer. 
-I've double majored in biology and Computer Science from Ajou Univ. 
+<br/>
+I've graduated from Biology and Computer Science 
+<br/>
+I'm into  
 
-  
+ 
 
 ### 🛠 Stack 🛠  
 
