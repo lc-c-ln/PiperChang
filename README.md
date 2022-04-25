@@ -2,7 +2,9 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&fontSize=90)
+<br/>
 🛠 Stack 🛠  
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
