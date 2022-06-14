@@ -4,14 +4,13 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&fontSize=90)
 <br/>
 
-### Hi! It's me CH
+### Hi! It's CH
 👋 Hey, how are you?
 I'm front-end developer. 
 <br/>
 I've graduated from Biology and Computer Science 
 <br/>
-I'm into  
-
+I'm doing my best to be a CTO level developer. So that, I can launch my own company.
  
 
 ### 🛠 Stack 🛠  
