@@ -5,15 +5,16 @@
 <br/>
 
 ### Hi! It's CH
-👋 Hey, how are you?
-I'm front-end developer. 
+👋 Hey,
+I'm ChangHee, front-end developer. 
 <br/>
-I've graduated from Biology and Computer Science 
+I've graduated from Biology and Computer Science
 <br/>
-I'm doing my best to be a CTO level developer. So that, I can launch my own company.
- 
+I'm a kind of man who always want myself to be better.
+<br/>
+Please give me a chance to work hard with you. You'll never regret.
 
-### 🛠 Stack 🛠  
+### 🛠 Stack 🛠
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
