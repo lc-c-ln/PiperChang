@@ -6,9 +6,9 @@
 
 ### Hi! It's CH
 👋 Hey,
-I'm ChangHee, front-end developer. 
+I'm ChangHee. 
 <br/>
-I've graduated from Biology and Computer Science
+I've graduated from Biology and Computer Science.
 <br/>
 I'm a kind of man who always want myself to be better.
 <br/>
