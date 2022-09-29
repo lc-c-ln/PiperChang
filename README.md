@@ -24,10 +24,6 @@ Please give me a chance to work hard with you. You'll never regret.
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-
-### Work on...
-[Portfolio](https://changhae.herokuapp.com)
-
 ### 🎨 My Github
 
 ![CH's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiperChang&show_icons=true&theme=radical)
